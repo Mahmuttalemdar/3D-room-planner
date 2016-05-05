@@ -1,0 +1,5 @@
+roomname wohnzimmer { size 2 1 1 wallpaper { texture flower.bmp tiling 3 1 } model room.obj }
+object vase { translation -1.86538 -0.4 1.89684  rotation 0 1 0 2.60938 scaling 0.522222 0.522222 0.522222 model vase.obj parent NULL }
+object vase2 { translation 2.1214 -0.4 -1.69879  rotation 0 1 0 2.33594 scaling 0.654167 0.654167 0.654167 model vase2.obj parent NULL }
+object tisch { translation 2.07547 -0.4 1.83361  rotation 0 1 0 2.33594 scaling 0.654167 0.654167 0.654167 model tisch.obj parent NULL }
+object tisch2 { translation -1.8292 -0.4 -1.85266  rotation 0 1 0 3.17969 scaling 0.390278 0.390278 0.390278 model tisch2.obj parent NULL }
