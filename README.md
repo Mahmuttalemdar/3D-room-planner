@@ -1,4 +1,11 @@
-# 3D-room-planner
-A very basic program allowing to rotate, scale and translate objects in a room.
+# OpenGL 3D-room-planner
 
-![alt tag](https://github.com/maxkohler/VideoDownloader/blob/master/InstagramDownloader/preview.png)
+I built this very basic program for my computer graphics class.
+
+Features:
+-OpenGL for window management and drawing.
+-Objectloader for .obj-files
+-Own math classes.
+-Own custom shaders.
+
+![alt tag](https://github.com/maxkohler/3D-room-planner/blob/master/preview.jpg)
