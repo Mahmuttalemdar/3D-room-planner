@@ -2,10 +2,10 @@
 
 I built this very basic program for my computer graphics class.
 
-Features:__
--OpenGL for window management and drawing.__
--Objectloader for .obj-files__
--Own math classes.__
--Own custom shaders.__
+Features:<br />
+-OpenGL for window management and drawing.<br />
+-Objectloader for .obj-files<br />
+-Own math classes.<br />
+-Own custom shaders.<br />
 
 ![alt tag](https://github.com/maxkohler/3D-room-planner/blob/master/preview.jpg)
